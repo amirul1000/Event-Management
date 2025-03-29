@@ -7,3 +7,8 @@
 ✅ Ticketing System (Seats, Pricing, Issuing)
 ✅ Payment Processing (Various Payment Methods)
 ✅ Sponsorship Management (Assigning Sponsors to Events)
+
+
+https://youtu.be/g9Tr1N82yKM
+
+
